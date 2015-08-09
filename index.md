@@ -34,14 +34,15 @@ Harassment includes, but is not limited to:
 - Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect others from intentional abuse
 - Publication of non-harassing private communication
 
-Our open source community prioritizes marginalized people’s safety over privileged people’s comfort. We will not act on complaints regarding:
+Our open source community prioritizes marginalized people’s safety over privileged people’s comfort. While abuse and harassment towards members of a privileged group will of course be treated as such, complaints regarding the following do not constitute any such misconduct:
 
-- ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
+- ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’, to the extent that such opinions are not combined with actions of misconduct from the aforementioned list of forms of harassment
 - Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you”
 - Refusal to explain or debate social justice concepts
 - Communicating in a ‘tone’ you don’t find congenial
 - Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
+For the purposes of interpreting and upholding this Code of Conduct, we employ the academic meaning of racism, sexism, other -isms, as **being a form of prejudice coming from a person or people who, either individually or as a demographic, hold power over the targeted individual or people.**
 
 ### Diversity Statement
 
